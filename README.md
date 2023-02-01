@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installing
 
 1. Clone the repository to your local machine:
-git clone https://github.com/dotdesh71/job-search-engine.git
+git clone https://github.com/dotdesh71/job-finder-Job-Search-Engine.git
 
 2. Navigate to the project directory:
 cd job-search-engine
