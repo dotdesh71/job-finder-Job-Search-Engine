@@ -12,13 +12,13 @@ These instructions will help you get a copy of the project up and running on you
 ### Installing
 
 1. Clone the repository to your local machine:
-git clone https://github.com/dotdesh71/job-finder-Job-Search-Engine.git
+`git clone https://github.com/dotdesh71/job-finder-Job-Search-Engine.git`
 
 2. Navigate to the project directory:
-cd job-search-engine
+`cd job-search-engine`
 
 
-3. Replace the API key (Line 7-8) in search.php file 'app_id=Your_AppID_Here' & 'app_key=YourAppKey'.
+3. Replace the API key (Line 7-8) in search.php file `'app_id=Your_AppID_Here'` & `'app_key=YourAppKey'`.
 
 
 4. Open the `index.php` file in your browser to start using the job search engine.
