@@ -5,7 +5,7 @@ if (isset($_POST['title'])) {
   $title = $_POST['title'];
 
   // Build the API request URL
-  $url = "https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=3fd229ca&app_key=d253223cb2164dd367ada81a4c754088&what=" . urlencode($title);
+  $url = "https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=YourAppIDHere&app_key=YourAppKeyHere&what=" . urlencode($title);
 
   // Use file_get_contents to retrieve the API response
   $response = file_get_contents($url);
